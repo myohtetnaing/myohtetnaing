@@ -18,8 +18,7 @@
 
 ###
 <h3 align="left">👩‍💻  About Me</h3>
-###
-<p align="left">I'm Myo Htet Naing from Myanmar.<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning React,Node.js,Python<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Myo Htet Naing from Myanmar.<br><br>-📚 I'm currently learning React,Node.js,Python</p>
 
 ###
 <h3 align="left">🛠 Languages and tools</h3>
